@@ -12,8 +12,8 @@
     'description': """
         Restringe el acceso de los usuarios a los puntos de ventas.
     """,
-    'author': "Falcón Solutions",
-    'maintainer': 'Falcon Solutions',
+    'author': "Falcon Solutions SpA",
+    'maintainer': 'Falcon Solutions SpA',
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     'category': "Point of Sale",
