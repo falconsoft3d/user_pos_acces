@@ -2,18 +2,18 @@
 ##############################################################################
 #
 #    ODOO, Open Source Management Solution
-#    Copyright (C) 2016 Steigend IT Solutions
+#    Copyright (C) Falcon Solutions SpA
 #    For more details, check COPYRIGHT and LICENSE files
 #
 ##############################################################################
 {
-    'name': "Accesos a Puntos de Ventas",
+    'name': "Access POS MFH",
     'summary': """user_pos_acces""",
     'description': """
-        Restringe el acceso de los usuarios a los puntos de ventas.
+        Restricts user access to points of sale.
     """,
     'author': "Falcon Solutions SpA",
-    'maintainer': 'Falcon Solutions SpA',
+    'maintainer': 'Falcon Solutions',
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     'category': "Point of Sale",
@@ -27,6 +27,7 @@
     ],
     'demo': [
     ],
+    'images': ['static/description/banner.jpg'],
     "license": 'AGPL-3',
     'installable': True,
 }
